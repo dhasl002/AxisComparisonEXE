@@ -1,0 +1,3250 @@
+# depslib dependency file v1.0
+1463577678 source:z:\work\0_spring_2016\axisdisplacementcomparison\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1463756789 z:\work\0_spring_2016\axisdisplacementcomparison\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\constants.h
+
+1458309758 z:\work\0_spring_2016\axisdisplacementcomparison\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 z:\work\0_spring_2016\axisdisplacementcomparison\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 z:\work\0_spring_2016\axisdisplacementcomparison\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 z:\work\0_spring_2016\axisdisplacementcomparison\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 z:\work\0_spring_2016\axisdisplacementcomparison\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 z:\work\0_spring_2016\axisdisplacementcomparison\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\matrix.h
+	<assert.h>
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 z:\work\0_spring_2016\axisdisplacementcomparison\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1463577505 z:\work\0_spring_2016\axisdisplacementcomparison\include\axis.h
+
+1467301200 source:w:\submittedwork\jcb2016\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1463756790 w:\submittedwork\jcb2016\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\constants.h
+
+1458309758 w:\submittedwork\jcb2016\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 w:\submittedwork\jcb2016\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 w:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 w:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 w:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 w:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 w:\submittedwork\jcb2016\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1467301199 w:\submittedwork\jcb2016\axiscomparisoncode\include\axis.h
+
+1467300578 source:z:\work\axiscomparisoncode\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1463756790 z:\work\axiscomparisoncode\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\constants.h
+
+1458309758 z:\work\axiscomparisoncode\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 z:\work\axiscomparisoncode\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 z:\work\axiscomparisoncode\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 z:\work\axiscomparisoncode\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 z:\work\axiscomparisoncode\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 z:\work\axiscomparisoncode\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 z:\work\axiscomparisoncode\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1467300830 z:\work\axiscomparisoncode\axiscomparisoncode\include\axis.h
+
+1487351531 source:y:\submittedwork\jcb2016\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1486606540 y:\submittedwork\jcb2016\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\constants.h
+
+1486144141 y:\submittedwork\jcb2016\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434043572 y:\submittedwork\jcb2016\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434043572 y:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434043572 y:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434043572 y:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434043572 y:\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434043570 y:\submittedwork\jcb2016\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1486142004 y:\submittedwork\jcb2016\axiscomparisoncode\include\axis.h
+
+1494861462 source:\\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1490149967 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\constants.h
+
+1486147741 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1493244832 \\cifs-dgs\research\dbz\submittedwork\jcb2016\axiscomparisoncode\include\axis.h
+
+1495125857 source:c:\users\dhaslam\desktop\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1490149967 c:\users\dhaslam\desktop\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\constants.h
+
+1486147741 c:\users\dhaslam\desktop\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 c:\users\dhaslam\desktop\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 c:\users\dhaslam\desktop\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 c:\users\dhaslam\desktop\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 c:\users\dhaslam\desktop\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 c:\users\dhaslam\desktop\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 c:\users\dhaslam\desktop\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1493244832 c:\users\dhaslam\desktop\axiscomparisoncode\include\axis.h
+
+1495811669 source:c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1490153567 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434050770 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\constants.h
+
+1486147741 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434050772 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434050772 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434050772 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434050772 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434050772 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434050770 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434050770 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434050770 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1495735647 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434050770 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1493248432 c:\users\paulh\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\axis.h
+
+1498165402 source:c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	"Eigen/Dense"
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1498150224 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434050770 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\constants.h
+
+1486147741 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434050772 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434050772 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434050772 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434050772 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434050772 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434050770 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434050770 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434050770 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1495735647 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434050770 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1498166120 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\include\axis.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\dense
+	"Core"
+	"LU"
+	"Cholesky"
+	"QR"
+	"SVD"
+	"Geometry"
+	"Eigenvalues"
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\core
+	"src/Core/util/DisableStupidWarnings.h"
+	<math_functions.hpp>
+	<new>
+	"src/Core/util/Macros.h"
+	<complex>
+	"src/Core/util/MKL_support.h"
+	<malloc.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<emmintrin.h>
+	<xmmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<altivec.h>
+	<altivec.h>
+	<arm_neon.h>
+	<vecintrin.h>
+	<vector_types.h>
+	<host_defines.h>
+	<cuda_fp16.h>
+	<omp.h>
+	<cerrno>
+	<cstddef>
+	<cstdlib>
+	<cmath>
+	<cassert>
+	<functional>
+	<iosfwd>
+	<cstring>
+	<string>
+	<limits>
+	<climits>
+	<algorithm>
+	<type_traits>
+	<iostream>
+	<intrin.h>
+	"src/Core/util/Constants.h"
+	"src/Core/util/Meta.h"
+	"src/Core/util/ForwardDeclarations.h"
+	"src/Core/util/StaticAssert.h"
+	"src/Core/util/XprHelper.h"
+	"src/Core/util/Memory.h"
+	"src/Core/NumTraits.h"
+	"src/Core/MathFunctions.h"
+	"src/Core/GenericPacketMath.h"
+	"src/Core/MathFunctionsImpl.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX512/PacketMath.h"
+	"src/Core/arch/AVX512/MathFunctions.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX/MathFunctions.h"
+	"src/Core/arch/AVX/Complex.h"
+	"src/Core/arch/AVX/TypeCasting.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/TypeCasting.h"
+	"src/Core/arch/AltiVec/PacketMath.h"
+	"src/Core/arch/AltiVec/MathFunctions.h"
+	"src/Core/arch/AltiVec/Complex.h"
+	"src/Core/arch/NEON/PacketMath.h"
+	"src/Core/arch/NEON/MathFunctions.h"
+	"src/Core/arch/NEON/Complex.h"
+	"src/Core/arch/ZVector/PacketMath.h"
+	"src/Core/arch/ZVector/MathFunctions.h"
+	"src/Core/arch/ZVector/Complex.h"
+	"src/Core/arch/CUDA/Half.h"
+	"src/Core/arch/CUDA/PacketMathHalf.h"
+	"src/Core/arch/CUDA/TypeCasting.h"
+	"src/Core/arch/CUDA/PacketMath.h"
+	"src/Core/arch/CUDA/MathFunctions.h"
+	"src/Core/arch/Default/Settings.h"
+	"src/Core/functors/TernaryFunctors.h"
+	"src/Core/functors/BinaryFunctors.h"
+	"src/Core/functors/UnaryFunctors.h"
+	"src/Core/functors/NullaryFunctors.h"
+	"src/Core/functors/StlFunctors.h"
+	"src/Core/functors/AssignmentFunctors.h"
+	"src/Core/arch/CUDA/Complex.h"
+	"src/Core/IO.h"
+	"src/Core/DenseCoeffsBase.h"
+	"src/Core/DenseBase.h"
+	"src/Core/MatrixBase.h"
+	"src/Core/EigenBase.h"
+	"src/Core/Product.h"
+	"src/Core/CoreEvaluators.h"
+	"src/Core/AssignEvaluator.h"
+	"src/Core/Assign.h"
+	"src/Core/ArrayBase.h"
+	"src/Core/util/BlasUtil.h"
+	"src/Core/DenseStorage.h"
+	"src/Core/NestByValue.h"
+	"src/Core/ReturnByValue.h"
+	"src/Core/NoAlias.h"
+	"src/Core/PlainObjectBase.h"
+	"src/Core/Matrix.h"
+	"src/Core/Array.h"
+	"src/Core/CwiseTernaryOp.h"
+	"src/Core/CwiseBinaryOp.h"
+	"src/Core/CwiseUnaryOp.h"
+	"src/Core/CwiseNullaryOp.h"
+	"src/Core/CwiseUnaryView.h"
+	"src/Core/SelfCwiseBinaryOp.h"
+	"src/Core/Dot.h"
+	"src/Core/StableNorm.h"
+	"src/Core/Stride.h"
+	"src/Core/MapBase.h"
+	"src/Core/Map.h"
+	"src/Core/Ref.h"
+	"src/Core/Block.h"
+	"src/Core/VectorBlock.h"
+	"src/Core/Transpose.h"
+	"src/Core/DiagonalMatrix.h"
+	"src/Core/Diagonal.h"
+	"src/Core/DiagonalProduct.h"
+	"src/Core/Redux.h"
+	"src/Core/Visitor.h"
+	"src/Core/Fuzzy.h"
+	"src/Core/Swap.h"
+	"src/Core/CommaInitializer.h"
+	"src/Core/GeneralProduct.h"
+	"src/Core/Solve.h"
+	"src/Core/Inverse.h"
+	"src/Core/SolverBase.h"
+	"src/Core/PermutationMatrix.h"
+	"src/Core/Transpositions.h"
+	"src/Core/TriangularMatrix.h"
+	"src/Core/SelfAdjointView.h"
+	"src/Core/products/GeneralBlockPanelKernel.h"
+	"src/Core/products/Parallelizer.h"
+	"src/Core/ProductEvaluators.h"
+	"src/Core/products/GeneralMatrixVector.h"
+	"src/Core/products/GeneralMatrixMatrix.h"
+	"src/Core/SolveTriangular.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular.h"
+	"src/Core/products/SelfadjointMatrixVector.h"
+	"src/Core/products/SelfadjointMatrixMatrix.h"
+	"src/Core/products/SelfadjointProduct.h"
+	"src/Core/products/SelfadjointRank2Update.h"
+	"src/Core/products/TriangularMatrixVector.h"
+	"src/Core/products/TriangularMatrixMatrix.h"
+	"src/Core/products/TriangularSolverMatrix.h"
+	"src/Core/products/TriangularSolverVector.h"
+	"src/Core/BandMatrix.h"
+	"src/Core/CoreIterators.h"
+	"src/Core/ConditionEstimator.h"
+	"src/Core/BooleanRedux.h"
+	"src/Core/Select.h"
+	"src/Core/VectorwiseOp.h"
+	"src/Core/Random.h"
+	"src/Core/Replicate.h"
+	"src/Core/Reverse.h"
+	"src/Core/ArrayWrapper.h"
+	"src/Core/products/GeneralMatrixMatrix_BLAS.h"
+	"src/Core/products/GeneralMatrixVector_BLAS.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h"
+	"src/Core/products/SelfadjointMatrixMatrix_BLAS.h"
+	"src/Core/products/SelfadjointMatrixVector_BLAS.h"
+	"src/Core/products/TriangularMatrixMatrix_BLAS.h"
+	"src/Core/products/TriangularMatrixVector_BLAS.h"
+	"src/Core/products/TriangularSolverMatrix_BLAS.h"
+	"src/Core/Assign_MKL.h"
+	"src/Core/GlobalFunctions.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\disablestupidwarnings.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\macros.h
+	<cstdlib>
+	<iostream>
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\mkl_support.h
+	<mkl.h>
+	"../../misc/blas.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\constants.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\meta.h
+	<cfloat>
+	<math_constants.h>
+	<cstdint>
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\forwarddeclarations.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\staticassert.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\xprhelper.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\memory.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\numtraits.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mathfunctions.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\genericpacketmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mathfunctionsimpl.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx512\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx512\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\complex.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\complex.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\typecasting.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\typecasting.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\complex.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\complex.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\packetmath.h
+	<stdint.h>
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\complex.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\half.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\packetmathhalf.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\typecasting.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\packetmath.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\mathfunctions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\default\settings.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\ternaryfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\binaryfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\unaryfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\nullaryfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\stlfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\assignmentfunctors.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\complex.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\io.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densecoeffsbase.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densebase.h
+	"../plugins/BlockMethods.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\blockmethods.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\matrixbase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\commoncwiseunaryops.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\commoncwisebinaryops.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\matrixcwiseunaryops.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\matrixcwisebinaryops.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\eigenbase.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\product.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\coreevaluators.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assignevaluator.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assign.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arraybase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/ArrayCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+	"../plugins/ArrayCwiseBinaryOps.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\arraycwiseunaryops.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\arraycwisebinaryops.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\blasutil.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densestorage.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\nestbyvalue.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\returnbyvalue.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\noalias.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\plainobjectbase.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\matrix.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\array.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseternaryop.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwisebinaryop.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseunaryop.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwisenullaryop.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseunaryview.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\selfcwisebinaryop.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\dot.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\stablenorm.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\stride.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mapbase.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\map.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\ref.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\block.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\vectorblock.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\transpose.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonalmatrix.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonal.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonalproduct.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\redux.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\visitor.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\fuzzy.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\swap.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\commainitializer.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\generalproduct.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solve.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\inverse.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solverbase.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\permutationmatrix.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\transpositions.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\triangularmatrix.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\selfadjointview.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalblockpanelkernel.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\parallelizer.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\productevaluators.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixvector.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solvetriangular.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointproduct.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointrank2update.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvervector.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\bandmatrix.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\coreiterators.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\conditionestimator.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\booleanredux.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\select.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\vectorwiseop.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\random.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\replicate.h
+
+1496793343 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\reverse.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arraywrapper.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixvector_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector_blas.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix_blas.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assign_mkl.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\globalfunctions.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\reenablestupidwarnings.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\lu
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/Kernel.h"
+	"src/misc/Image.h"
+	"src/LU/FullPivLU.h"
+	"src/LU/PartialPivLU.h"
+	"src/misc/lapacke.h"
+	"src/LU/PartialPivLU_LAPACKE.h"
+	"src/LU/Determinant.h"
+	"src/LU/InverseImpl.h"
+	"src/LU/arch/Inverse_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\kernel.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\image.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\fullpivlu.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\partialpivlu.h
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\lapacke.h
+	"lapacke_config.h"
+	<stdlib.h>
+	<complex.h>
+	<complex.h>
+	"lapacke_mangling.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\lapacke_mangling.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\partialpivlu_lapacke.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\determinant.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\inverseimpl.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\arch\inverse_sse.h
+
+1496793341 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\cholesky
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Cholesky/LLT.h"
+	"src/Cholesky/LDLT.h"
+	"src/misc/lapacke.h"
+	"src/Cholesky/LLT_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\llt.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\ldlt.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\llt_lapacke.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\qr
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"src/QR/HouseholderQR.h"
+	"src/QR/FullPivHouseholderQR.h"
+	"src/QR/ColPivHouseholderQR.h"
+	"src/QR/CompleteOrthogonalDecomposition.h"
+	"src/misc/lapacke.h"
+	"src/QR/HouseholderQR_LAPACKE.h"
+	"src/QR/ColPivHouseholderQR_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\jacobi
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Jacobi/Jacobi.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\jacobi\jacobi.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\householder
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Householder/Householder.h"
+	"src/Householder/HouseholderSequence.h"
+	"src/Householder/BlockHouseholder.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\householder.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\householdersequence.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\blockhouseholder.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\householderqr.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\fullpivhouseholderqr.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\completeorthogonaldecomposition.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\householderqr_lapacke.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr_lapacke.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\svd
+	"QR"
+	"Householder"
+	"Jacobi"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/RealSvd2x2.h"
+	"src/SVD/UpperBidiagonalization.h"
+	"src/SVD/SVDBase.h"
+	"src/SVD/JacobiSVD.h"
+	"src/SVD/BDCSVD.h"
+	"src/misc/lapacke.h"
+	"src/SVD/JacobiSVD_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793346 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\realsvd2x2.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\upperbidiagonalization.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\svdbase.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\jacobisvd.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\bdcsvd.h
+
+1496793345 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\jacobisvd_lapacke.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\geometry
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"SVD"
+	"LU"
+	<limits>
+	"src/Geometry/OrthoMethods.h"
+	"src/Geometry/EulerAngles.h"
+	"src/Geometry/Homogeneous.h"
+	"src/Geometry/RotationBase.h"
+	"src/Geometry/Rotation2D.h"
+	"src/Geometry/Quaternion.h"
+	"src/Geometry/AngleAxis.h"
+	"src/Geometry/Transform.h"
+	"src/Geometry/Translation.h"
+	"src/Geometry/Scaling.h"
+	"src/Geometry/Hyperplane.h"
+	"src/Geometry/ParametrizedLine.h"
+	"src/Geometry/AlignedBox.h"
+	"src/Geometry/Umeyama.h"
+	"src/Geometry/arch/Geometry_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\orthomethods.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\eulerangles.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\homogeneous.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\rotationbase.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\rotation2d.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\quaternion.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\angleaxis.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\transform.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\translation.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\scaling.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\hyperplane.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\parametrizedline.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\alignedbox.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\umeyama.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\arch\geometry_sse.h
+
+1496793342 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\eigenvalues
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"LU"
+	"Geometry"
+	"src/misc/RealSvd2x2.h"
+	"src/Eigenvalues/Tridiagonalization.h"
+	"src/Eigenvalues/RealSchur.h"
+	"src/Eigenvalues/EigenSolver.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver.h"
+	"src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h"
+	"src/Eigenvalues/HessenbergDecomposition.h"
+	"src/Eigenvalues/ComplexSchur.h"
+	"src/Eigenvalues/ComplexEigenSolver.h"
+	"src/Eigenvalues/RealQZ.h"
+	"src/Eigenvalues/GeneralizedEigenSolver.h"
+	"src/Eigenvalues/MatrixBaseEigenvalues.h"
+	"src/misc/lapacke.h"
+	"src/Eigenvalues/RealSchur_LAPACKE.h"
+	"src/Eigenvalues/ComplexSchur_LAPACKE.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\tridiagonalization.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realschur.h
+	"./HessenbergDecomposition.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\hessenbergdecomposition.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\eigensolver.h
+	"./RealSchur.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\generalizedselfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexschur.h
+	"./HessenbergDecomposition.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexeigensolver.h
+	"./ComplexSchur.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realqz.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\generalizedeigensolver.h
+	"./RealQZ.h"
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\matrixbaseeigenvalues.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realschur_lapacke.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexschur_lapacke.h
+
+1496793344 c:\users\malsa\desktop\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver_lapacke.h
+
+1498580057 source:z:\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	"Eigen/Dense"
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1496789742 z:\axiscomparisoncode\eigen\dense
+	"Core"
+	"LU"
+	"Cholesky"
+	"QR"
+	"SVD"
+	"Geometry"
+	"Eigenvalues"
+
+1496789742 z:\axiscomparisoncode\eigen\core
+	"src/Core/util/DisableStupidWarnings.h"
+	<math_functions.hpp>
+	<new>
+	"src/Core/util/Macros.h"
+	<complex>
+	"src/Core/util/MKL_support.h"
+	<malloc.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<emmintrin.h>
+	<xmmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<altivec.h>
+	<altivec.h>
+	<arm_neon.h>
+	<vecintrin.h>
+	<vector_types.h>
+	<host_defines.h>
+	<cuda_fp16.h>
+	<omp.h>
+	<cerrno>
+	<cstddef>
+	<cstdlib>
+	<cmath>
+	<cassert>
+	<functional>
+	<iosfwd>
+	<cstring>
+	<string>
+	<limits>
+	<climits>
+	<algorithm>
+	<type_traits>
+	<iostream>
+	<intrin.h>
+	"src/Core/util/Constants.h"
+	"src/Core/util/Meta.h"
+	"src/Core/util/ForwardDeclarations.h"
+	"src/Core/util/StaticAssert.h"
+	"src/Core/util/XprHelper.h"
+	"src/Core/util/Memory.h"
+	"src/Core/NumTraits.h"
+	"src/Core/MathFunctions.h"
+	"src/Core/GenericPacketMath.h"
+	"src/Core/MathFunctionsImpl.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX512/PacketMath.h"
+	"src/Core/arch/AVX512/MathFunctions.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX/MathFunctions.h"
+	"src/Core/arch/AVX/Complex.h"
+	"src/Core/arch/AVX/TypeCasting.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/TypeCasting.h"
+	"src/Core/arch/AltiVec/PacketMath.h"
+	"src/Core/arch/AltiVec/MathFunctions.h"
+	"src/Core/arch/AltiVec/Complex.h"
+	"src/Core/arch/NEON/PacketMath.h"
+	"src/Core/arch/NEON/MathFunctions.h"
+	"src/Core/arch/NEON/Complex.h"
+	"src/Core/arch/ZVector/PacketMath.h"
+	"src/Core/arch/ZVector/MathFunctions.h"
+	"src/Core/arch/ZVector/Complex.h"
+	"src/Core/arch/CUDA/Half.h"
+	"src/Core/arch/CUDA/PacketMathHalf.h"
+	"src/Core/arch/CUDA/TypeCasting.h"
+	"src/Core/arch/CUDA/PacketMath.h"
+	"src/Core/arch/CUDA/MathFunctions.h"
+	"src/Core/arch/Default/Settings.h"
+	"src/Core/functors/TernaryFunctors.h"
+	"src/Core/functors/BinaryFunctors.h"
+	"src/Core/functors/UnaryFunctors.h"
+	"src/Core/functors/NullaryFunctors.h"
+	"src/Core/functors/StlFunctors.h"
+	"src/Core/functors/AssignmentFunctors.h"
+	"src/Core/arch/CUDA/Complex.h"
+	"src/Core/IO.h"
+	"src/Core/DenseCoeffsBase.h"
+	"src/Core/DenseBase.h"
+	"src/Core/MatrixBase.h"
+	"src/Core/EigenBase.h"
+	"src/Core/Product.h"
+	"src/Core/CoreEvaluators.h"
+	"src/Core/AssignEvaluator.h"
+	"src/Core/Assign.h"
+	"src/Core/ArrayBase.h"
+	"src/Core/util/BlasUtil.h"
+	"src/Core/DenseStorage.h"
+	"src/Core/NestByValue.h"
+	"src/Core/ReturnByValue.h"
+	"src/Core/NoAlias.h"
+	"src/Core/PlainObjectBase.h"
+	"src/Core/Matrix.h"
+	"src/Core/Array.h"
+	"src/Core/CwiseTernaryOp.h"
+	"src/Core/CwiseBinaryOp.h"
+	"src/Core/CwiseUnaryOp.h"
+	"src/Core/CwiseNullaryOp.h"
+	"src/Core/CwiseUnaryView.h"
+	"src/Core/SelfCwiseBinaryOp.h"
+	"src/Core/Dot.h"
+	"src/Core/StableNorm.h"
+	"src/Core/Stride.h"
+	"src/Core/MapBase.h"
+	"src/Core/Map.h"
+	"src/Core/Ref.h"
+	"src/Core/Block.h"
+	"src/Core/VectorBlock.h"
+	"src/Core/Transpose.h"
+	"src/Core/DiagonalMatrix.h"
+	"src/Core/Diagonal.h"
+	"src/Core/DiagonalProduct.h"
+	"src/Core/Redux.h"
+	"src/Core/Visitor.h"
+	"src/Core/Fuzzy.h"
+	"src/Core/Swap.h"
+	"src/Core/CommaInitializer.h"
+	"src/Core/GeneralProduct.h"
+	"src/Core/Solve.h"
+	"src/Core/Inverse.h"
+	"src/Core/SolverBase.h"
+	"src/Core/PermutationMatrix.h"
+	"src/Core/Transpositions.h"
+	"src/Core/TriangularMatrix.h"
+	"src/Core/SelfAdjointView.h"
+	"src/Core/products/GeneralBlockPanelKernel.h"
+	"src/Core/products/Parallelizer.h"
+	"src/Core/ProductEvaluators.h"
+	"src/Core/products/GeneralMatrixVector.h"
+	"src/Core/products/GeneralMatrixMatrix.h"
+	"src/Core/SolveTriangular.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular.h"
+	"src/Core/products/SelfadjointMatrixVector.h"
+	"src/Core/products/SelfadjointMatrixMatrix.h"
+	"src/Core/products/SelfadjointProduct.h"
+	"src/Core/products/SelfadjointRank2Update.h"
+	"src/Core/products/TriangularMatrixVector.h"
+	"src/Core/products/TriangularMatrixMatrix.h"
+	"src/Core/products/TriangularSolverMatrix.h"
+	"src/Core/products/TriangularSolverVector.h"
+	"src/Core/BandMatrix.h"
+	"src/Core/CoreIterators.h"
+	"src/Core/ConditionEstimator.h"
+	"src/Core/BooleanRedux.h"
+	"src/Core/Select.h"
+	"src/Core/VectorwiseOp.h"
+	"src/Core/Random.h"
+	"src/Core/Replicate.h"
+	"src/Core/Reverse.h"
+	"src/Core/ArrayWrapper.h"
+	"src/Core/products/GeneralMatrixMatrix_BLAS.h"
+	"src/Core/products/GeneralMatrixVector_BLAS.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h"
+	"src/Core/products/SelfadjointMatrixMatrix_BLAS.h"
+	"src/Core/products/SelfadjointMatrixVector_BLAS.h"
+	"src/Core/products/TriangularMatrixMatrix_BLAS.h"
+	"src/Core/products/TriangularMatrixVector_BLAS.h"
+	"src/Core/products/TriangularSolverMatrix_BLAS.h"
+	"src/Core/Assign_MKL.h"
+	"src/Core/GlobalFunctions.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\disablestupidwarnings.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\macros.h
+	<cstdlib>
+	<iostream>
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\mkl_support.h
+	<mkl.h>
+	"../../misc/blas.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\constants.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\meta.h
+	<cfloat>
+	<math_constants.h>
+	<cstdint>
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\forwarddeclarations.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\staticassert.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\xprhelper.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\memory.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\numtraits.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\mathfunctions.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\genericpacketmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\mathfunctionsimpl.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\sse\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx512\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx512\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\sse\complex.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\sse\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx\complex.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\avx\typecasting.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\sse\typecasting.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\altivec\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\altivec\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\altivec\complex.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\neon\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\neon\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\neon\complex.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\zvector\packetmath.h
+	<stdint.h>
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\zvector\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\zvector\complex.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\half.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\packetmathhalf.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\typecasting.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\packetmath.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\mathfunctions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\default\settings.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\ternaryfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\binaryfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\unaryfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\nullaryfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\stlfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\functors\assignmentfunctors.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\arch\cuda\complex.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\io.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\densecoeffsbase.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\densebase.h
+	"../plugins/BlockMethods.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\blockmethods.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\matrixbase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\commoncwiseunaryops.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\commoncwisebinaryops.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\matrixcwiseunaryops.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\matrixcwisebinaryops.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\eigenbase.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\product.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\coreevaluators.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\assignevaluator.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\assign.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\arraybase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/ArrayCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+	"../plugins/ArrayCwiseBinaryOps.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\arraycwiseunaryops.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\plugins\arraycwisebinaryops.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\blasutil.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\densestorage.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\nestbyvalue.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\returnbyvalue.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\noalias.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\plainobjectbase.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\matrix.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\array.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\cwiseternaryop.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\cwisebinaryop.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\cwiseunaryop.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\cwisenullaryop.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\cwiseunaryview.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\selfcwisebinaryop.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\dot.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\stablenorm.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\stride.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\mapbase.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\map.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\ref.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\block.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\vectorblock.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\transpose.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\diagonalmatrix.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\diagonal.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\diagonalproduct.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\redux.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\visitor.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\fuzzy.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\swap.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\commainitializer.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\generalproduct.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\solve.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\inverse.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\solverbase.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\permutationmatrix.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\transpositions.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\triangularmatrix.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\selfadjointview.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalblockpanelkernel.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\parallelizer.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\productevaluators.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixvector.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\solvetriangular.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointproduct.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointrank2update.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularsolvervector.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\bandmatrix.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\coreiterators.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\conditionestimator.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\booleanredux.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\select.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\vectorwiseop.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\random.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\replicate.h
+
+1496789743 z:\axiscomparisoncode\eigen\src\core\reverse.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\arraywrapper.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixvector_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector_blas.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix_blas.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\assign_mkl.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\core\globalfunctions.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\core\util\reenablestupidwarnings.h
+
+1496789742 z:\axiscomparisoncode\eigen\lu
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/Kernel.h"
+	"src/misc/Image.h"
+	"src/LU/FullPivLU.h"
+	"src/LU/PartialPivLU.h"
+	"src/misc/lapacke.h"
+	"src/LU/PartialPivLU_LAPACKE.h"
+	"src/LU/Determinant.h"
+	"src/LU/InverseImpl.h"
+	"src/LU/arch/Inverse_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\kernel.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\image.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\fullpivlu.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\partialpivlu.h
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\lapacke.h
+	"lapacke_config.h"
+	<stdlib.h>
+	<complex.h>
+	<complex.h>
+	"lapacke_mangling.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\lapacke_mangling.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\partialpivlu_lapacke.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\determinant.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\inverseimpl.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\lu\arch\inverse_sse.h
+
+1496789741 z:\axiscomparisoncode\eigen\cholesky
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Cholesky/LLT.h"
+	"src/Cholesky/LDLT.h"
+	"src/misc/lapacke.h"
+	"src/Cholesky/LLT_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789742 z:\axiscomparisoncode\eigen\src\cholesky\llt.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\cholesky\ldlt.h
+
+1496789742 z:\axiscomparisoncode\eigen\src\cholesky\llt_lapacke.h
+
+1496789742 z:\axiscomparisoncode\eigen\qr
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"src/QR/HouseholderQR.h"
+	"src/QR/FullPivHouseholderQR.h"
+	"src/QR/ColPivHouseholderQR.h"
+	"src/QR/CompleteOrthogonalDecomposition.h"
+	"src/misc/lapacke.h"
+	"src/QR/HouseholderQR_LAPACKE.h"
+	"src/QR/ColPivHouseholderQR_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789742 z:\axiscomparisoncode\eigen\jacobi
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Jacobi/Jacobi.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789745 z:\axiscomparisoncode\eigen\src\jacobi\jacobi.h
+
+1496789742 z:\axiscomparisoncode\eigen\householder
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Householder/Householder.h"
+	"src/Householder/HouseholderSequence.h"
+	"src/Householder/BlockHouseholder.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\householder\householder.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\householder\householdersequence.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\householder\blockhouseholder.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\householderqr.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\fullpivhouseholderqr.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\completeorthogonaldecomposition.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\householderqr_lapacke.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr_lapacke.h
+
+1496789742 z:\axiscomparisoncode\eigen\svd
+	"QR"
+	"Householder"
+	"Jacobi"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/RealSvd2x2.h"
+	"src/SVD/UpperBidiagonalization.h"
+	"src/SVD/SVDBase.h"
+	"src/SVD/JacobiSVD.h"
+	"src/SVD/BDCSVD.h"
+	"src/misc/lapacke.h"
+	"src/SVD/JacobiSVD_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789746 z:\axiscomparisoncode\eigen\src\misc\realsvd2x2.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\svd\upperbidiagonalization.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\svd\svdbase.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\svd\jacobisvd.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\svd\bdcsvd.h
+
+1496789745 z:\axiscomparisoncode\eigen\src\svd\jacobisvd_lapacke.h
+
+1496789742 z:\axiscomparisoncode\eigen\geometry
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"SVD"
+	"LU"
+	<limits>
+	"src/Geometry/OrthoMethods.h"
+	"src/Geometry/EulerAngles.h"
+	"src/Geometry/Homogeneous.h"
+	"src/Geometry/RotationBase.h"
+	"src/Geometry/Rotation2D.h"
+	"src/Geometry/Quaternion.h"
+	"src/Geometry/AngleAxis.h"
+	"src/Geometry/Transform.h"
+	"src/Geometry/Translation.h"
+	"src/Geometry/Scaling.h"
+	"src/Geometry/Hyperplane.h"
+	"src/Geometry/ParametrizedLine.h"
+	"src/Geometry/AlignedBox.h"
+	"src/Geometry/Umeyama.h"
+	"src/Geometry/arch/Geometry_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\orthomethods.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\eulerangles.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\homogeneous.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\rotationbase.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\rotation2d.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\quaternion.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\angleaxis.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\transform.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\translation.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\scaling.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\hyperplane.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\parametrizedline.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\alignedbox.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\umeyama.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\geometry\arch\geometry_sse.h
+
+1496789742 z:\axiscomparisoncode\eigen\eigenvalues
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"LU"
+	"Geometry"
+	"src/misc/RealSvd2x2.h"
+	"src/Eigenvalues/Tridiagonalization.h"
+	"src/Eigenvalues/RealSchur.h"
+	"src/Eigenvalues/EigenSolver.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver.h"
+	"src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h"
+	"src/Eigenvalues/HessenbergDecomposition.h"
+	"src/Eigenvalues/ComplexSchur.h"
+	"src/Eigenvalues/ComplexEigenSolver.h"
+	"src/Eigenvalues/RealQZ.h"
+	"src/Eigenvalues/GeneralizedEigenSolver.h"
+	"src/Eigenvalues/MatrixBaseEigenvalues.h"
+	"src/misc/lapacke.h"
+	"src/Eigenvalues/RealSchur_LAPACKE.h"
+	"src/Eigenvalues/ComplexSchur_LAPACKE.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\tridiagonalization.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\realschur.h
+	"./HessenbergDecomposition.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\hessenbergdecomposition.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\eigensolver.h
+	"./RealSchur.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\generalizedselfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\complexschur.h
+	"./HessenbergDecomposition.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\complexeigensolver.h
+	"./ComplexSchur.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\realqz.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\generalizedeigensolver.h
+	"./RealQZ.h"
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\matrixbaseeigenvalues.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\realschur_lapacke.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\complexschur_lapacke.h
+
+1496789744 z:\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver_lapacke.h
+
+1498146624 z:\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434047170 z:\axiscomparisoncode\include\constants.h
+
+1486147741 z:\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434047172 z:\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434047172 z:\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434047172 z:\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434047172 z:\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434047172 z:\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434047170 z:\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434047170 z:\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434047170 z:\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1495732047 z:\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434047170 z:\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1498579014 z:\axiscomparisoncode\include\axis.h
+
+1507734422 source:c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\axiscomparison.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<direct.h>
+	<string>
+	<conio.h>
+	<cstdlib>
+	<stdlib.h>
+	"Eigen/Dense"
+	"include/protein.h"
+	"include/skeleton_overall.h"
+	"include/MRC.h"
+	"include/axis.h"
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\dense
+	"Core"
+	"LU"
+	"Cholesky"
+	"QR"
+	"SVD"
+	"Geometry"
+	"Eigenvalues"
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\core
+	"src/Core/util/DisableStupidWarnings.h"
+	<math_functions.hpp>
+	<new>
+	"src/Core/util/Macros.h"
+	<complex>
+	"src/Core/util/MKL_support.h"
+	<malloc.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<emmintrin.h>
+	<xmmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<altivec.h>
+	<altivec.h>
+	<arm_neon.h>
+	<vecintrin.h>
+	<vector_types.h>
+	<host_defines.h>
+	<cuda_fp16.h>
+	<omp.h>
+	<cerrno>
+	<cstddef>
+	<cstdlib>
+	<cmath>
+	<cassert>
+	<functional>
+	<iosfwd>
+	<cstring>
+	<string>
+	<limits>
+	<climits>
+	<algorithm>
+	<type_traits>
+	<iostream>
+	<intrin.h>
+	"src/Core/util/Constants.h"
+	"src/Core/util/Meta.h"
+	"src/Core/util/ForwardDeclarations.h"
+	"src/Core/util/StaticAssert.h"
+	"src/Core/util/XprHelper.h"
+	"src/Core/util/Memory.h"
+	"src/Core/NumTraits.h"
+	"src/Core/MathFunctions.h"
+	"src/Core/GenericPacketMath.h"
+	"src/Core/MathFunctionsImpl.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX512/PacketMath.h"
+	"src/Core/arch/AVX512/MathFunctions.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/AVX/PacketMath.h"
+	"src/Core/arch/AVX/MathFunctions.h"
+	"src/Core/arch/AVX/Complex.h"
+	"src/Core/arch/AVX/TypeCasting.h"
+	"src/Core/arch/SSE/PacketMath.h"
+	"src/Core/arch/SSE/MathFunctions.h"
+	"src/Core/arch/SSE/Complex.h"
+	"src/Core/arch/SSE/TypeCasting.h"
+	"src/Core/arch/AltiVec/PacketMath.h"
+	"src/Core/arch/AltiVec/MathFunctions.h"
+	"src/Core/arch/AltiVec/Complex.h"
+	"src/Core/arch/NEON/PacketMath.h"
+	"src/Core/arch/NEON/MathFunctions.h"
+	"src/Core/arch/NEON/Complex.h"
+	"src/Core/arch/ZVector/PacketMath.h"
+	"src/Core/arch/ZVector/MathFunctions.h"
+	"src/Core/arch/ZVector/Complex.h"
+	"src/Core/arch/CUDA/Half.h"
+	"src/Core/arch/CUDA/PacketMathHalf.h"
+	"src/Core/arch/CUDA/TypeCasting.h"
+	"src/Core/arch/CUDA/PacketMath.h"
+	"src/Core/arch/CUDA/MathFunctions.h"
+	"src/Core/arch/Default/Settings.h"
+	"src/Core/functors/TernaryFunctors.h"
+	"src/Core/functors/BinaryFunctors.h"
+	"src/Core/functors/UnaryFunctors.h"
+	"src/Core/functors/NullaryFunctors.h"
+	"src/Core/functors/StlFunctors.h"
+	"src/Core/functors/AssignmentFunctors.h"
+	"src/Core/arch/CUDA/Complex.h"
+	"src/Core/IO.h"
+	"src/Core/DenseCoeffsBase.h"
+	"src/Core/DenseBase.h"
+	"src/Core/MatrixBase.h"
+	"src/Core/EigenBase.h"
+	"src/Core/Product.h"
+	"src/Core/CoreEvaluators.h"
+	"src/Core/AssignEvaluator.h"
+	"src/Core/Assign.h"
+	"src/Core/ArrayBase.h"
+	"src/Core/util/BlasUtil.h"
+	"src/Core/DenseStorage.h"
+	"src/Core/NestByValue.h"
+	"src/Core/ReturnByValue.h"
+	"src/Core/NoAlias.h"
+	"src/Core/PlainObjectBase.h"
+	"src/Core/Matrix.h"
+	"src/Core/Array.h"
+	"src/Core/CwiseTernaryOp.h"
+	"src/Core/CwiseBinaryOp.h"
+	"src/Core/CwiseUnaryOp.h"
+	"src/Core/CwiseNullaryOp.h"
+	"src/Core/CwiseUnaryView.h"
+	"src/Core/SelfCwiseBinaryOp.h"
+	"src/Core/Dot.h"
+	"src/Core/StableNorm.h"
+	"src/Core/Stride.h"
+	"src/Core/MapBase.h"
+	"src/Core/Map.h"
+	"src/Core/Ref.h"
+	"src/Core/Block.h"
+	"src/Core/VectorBlock.h"
+	"src/Core/Transpose.h"
+	"src/Core/DiagonalMatrix.h"
+	"src/Core/Diagonal.h"
+	"src/Core/DiagonalProduct.h"
+	"src/Core/Redux.h"
+	"src/Core/Visitor.h"
+	"src/Core/Fuzzy.h"
+	"src/Core/Swap.h"
+	"src/Core/CommaInitializer.h"
+	"src/Core/GeneralProduct.h"
+	"src/Core/Solve.h"
+	"src/Core/Inverse.h"
+	"src/Core/SolverBase.h"
+	"src/Core/PermutationMatrix.h"
+	"src/Core/Transpositions.h"
+	"src/Core/TriangularMatrix.h"
+	"src/Core/SelfAdjointView.h"
+	"src/Core/products/GeneralBlockPanelKernel.h"
+	"src/Core/products/Parallelizer.h"
+	"src/Core/ProductEvaluators.h"
+	"src/Core/products/GeneralMatrixVector.h"
+	"src/Core/products/GeneralMatrixMatrix.h"
+	"src/Core/SolveTriangular.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular.h"
+	"src/Core/products/SelfadjointMatrixVector.h"
+	"src/Core/products/SelfadjointMatrixMatrix.h"
+	"src/Core/products/SelfadjointProduct.h"
+	"src/Core/products/SelfadjointRank2Update.h"
+	"src/Core/products/TriangularMatrixVector.h"
+	"src/Core/products/TriangularMatrixMatrix.h"
+	"src/Core/products/TriangularSolverMatrix.h"
+	"src/Core/products/TriangularSolverVector.h"
+	"src/Core/BandMatrix.h"
+	"src/Core/CoreIterators.h"
+	"src/Core/ConditionEstimator.h"
+	"src/Core/BooleanRedux.h"
+	"src/Core/Select.h"
+	"src/Core/VectorwiseOp.h"
+	"src/Core/Random.h"
+	"src/Core/Replicate.h"
+	"src/Core/Reverse.h"
+	"src/Core/ArrayWrapper.h"
+	"src/Core/products/GeneralMatrixMatrix_BLAS.h"
+	"src/Core/products/GeneralMatrixVector_BLAS.h"
+	"src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h"
+	"src/Core/products/SelfadjointMatrixMatrix_BLAS.h"
+	"src/Core/products/SelfadjointMatrixVector_BLAS.h"
+	"src/Core/products/TriangularMatrixMatrix_BLAS.h"
+	"src/Core/products/TriangularMatrixVector_BLAS.h"
+	"src/Core/products/TriangularSolverMatrix_BLAS.h"
+	"src/Core/Assign_MKL.h"
+	"src/Core/GlobalFunctions.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\disablestupidwarnings.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\macros.h
+	<cstdlib>
+	<iostream>
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\mkl_support.h
+	<mkl.h>
+	"../../misc/blas.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\constants.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\meta.h
+	<cfloat>
+	<math_constants.h>
+	<cstdint>
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\forwarddeclarations.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\staticassert.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\xprhelper.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\memory.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\numtraits.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mathfunctions.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\genericpacketmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mathfunctionsimpl.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx512\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx512\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\complex.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\complex.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\avx\typecasting.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\sse\typecasting.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\altivec\complex.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\neon\complex.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\packetmath.h
+	<stdint.h>
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\zvector\complex.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\half.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\packetmathhalf.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\typecasting.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\packetmath.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\mathfunctions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\default\settings.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\ternaryfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\binaryfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\unaryfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\nullaryfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\stlfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\functors\assignmentfunctors.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arch\cuda\complex.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\io.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densecoeffsbase.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densebase.h
+	"../plugins/BlockMethods.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\blockmethods.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\matrixbase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\commoncwiseunaryops.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\commoncwisebinaryops.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\matrixcwiseunaryops.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\matrixcwisebinaryops.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\eigenbase.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\product.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\coreevaluators.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assignevaluator.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assign.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arraybase.h
+	"../plugins/CommonCwiseUnaryOps.h"
+	"../plugins/MatrixCwiseUnaryOps.h"
+	"../plugins/ArrayCwiseUnaryOps.h"
+	"../plugins/CommonCwiseBinaryOps.h"
+	"../plugins/MatrixCwiseBinaryOps.h"
+	"../plugins/ArrayCwiseBinaryOps.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\arraycwiseunaryops.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\plugins\arraycwisebinaryops.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\blasutil.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\densestorage.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\nestbyvalue.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\returnbyvalue.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\noalias.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\plainobjectbase.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\matrix.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\array.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseternaryop.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwisebinaryop.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseunaryop.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwisenullaryop.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\cwiseunaryview.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\selfcwisebinaryop.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\dot.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\stablenorm.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\stride.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\mapbase.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\map.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\ref.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\block.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\vectorblock.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\transpose.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonalmatrix.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonal.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\diagonalproduct.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\redux.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\visitor.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\fuzzy.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\swap.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\commainitializer.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\generalproduct.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solve.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\inverse.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solverbase.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\permutationmatrix.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\transpositions.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\triangularmatrix.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\selfadjointview.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalblockpanelkernel.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\parallelizer.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\productevaluators.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixvector.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\solvetriangular.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointproduct.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointrank2update.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvervector.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\bandmatrix.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\coreiterators.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\conditionestimator.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\booleanredux.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\select.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\vectorwiseop.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\random.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\replicate.h
+
+1496793343 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\reverse.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\arraywrapper.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrix_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixvector_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\generalmatrixmatrixtriangular_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixmatrix_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\selfadjointmatrixvector_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixmatrix_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularmatrixvector_blas.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\products\triangularsolvermatrix_blas.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\assign_mkl.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\globalfunctions.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\core\util\reenablestupidwarnings.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\lu
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/Kernel.h"
+	"src/misc/Image.h"
+	"src/LU/FullPivLU.h"
+	"src/LU/PartialPivLU.h"
+	"src/misc/lapacke.h"
+	"src/LU/PartialPivLU_LAPACKE.h"
+	"src/LU/Determinant.h"
+	"src/LU/InverseImpl.h"
+	"src/LU/arch/Inverse_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\kernel.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\image.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\fullpivlu.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\partialpivlu.h
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\lapacke.h
+	"lapacke_config.h"
+	<stdlib.h>
+	<complex.h>
+	<complex.h>
+	"lapacke_mangling.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\lapacke_mangling.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\partialpivlu_lapacke.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\determinant.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\inverseimpl.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\lu\arch\inverse_sse.h
+
+1496793341 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\cholesky
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Cholesky/LLT.h"
+	"src/Cholesky/LDLT.h"
+	"src/misc/lapacke.h"
+	"src/Cholesky/LLT_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\llt.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\ldlt.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\cholesky\llt_lapacke.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\qr
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"src/QR/HouseholderQR.h"
+	"src/QR/FullPivHouseholderQR.h"
+	"src/QR/ColPivHouseholderQR.h"
+	"src/QR/CompleteOrthogonalDecomposition.h"
+	"src/misc/lapacke.h"
+	"src/QR/HouseholderQR_LAPACKE.h"
+	"src/QR/ColPivHouseholderQR_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\jacobi
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Jacobi/Jacobi.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\jacobi\jacobi.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\householder
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/Householder/Householder.h"
+	"src/Householder/HouseholderSequence.h"
+	"src/Householder/BlockHouseholder.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\householder.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\householdersequence.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\householder\blockhouseholder.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\householderqr.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\fullpivhouseholderqr.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\completeorthogonaldecomposition.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\householderqr_lapacke.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\qr\colpivhouseholderqr_lapacke.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\svd
+	"QR"
+	"Householder"
+	"Jacobi"
+	"src/Core/util/DisableStupidWarnings.h"
+	"src/misc/RealSvd2x2.h"
+	"src/SVD/UpperBidiagonalization.h"
+	"src/SVD/SVDBase.h"
+	"src/SVD/JacobiSVD.h"
+	"src/SVD/BDCSVD.h"
+	"src/misc/lapacke.h"
+	"src/SVD/JacobiSVD_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793346 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\misc\realsvd2x2.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\upperbidiagonalization.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\svdbase.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\jacobisvd.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\bdcsvd.h
+
+1496793345 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\svd\jacobisvd_lapacke.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\geometry
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"SVD"
+	"LU"
+	<limits>
+	"src/Geometry/OrthoMethods.h"
+	"src/Geometry/EulerAngles.h"
+	"src/Geometry/Homogeneous.h"
+	"src/Geometry/RotationBase.h"
+	"src/Geometry/Rotation2D.h"
+	"src/Geometry/Quaternion.h"
+	"src/Geometry/AngleAxis.h"
+	"src/Geometry/Transform.h"
+	"src/Geometry/Translation.h"
+	"src/Geometry/Scaling.h"
+	"src/Geometry/Hyperplane.h"
+	"src/Geometry/ParametrizedLine.h"
+	"src/Geometry/AlignedBox.h"
+	"src/Geometry/Umeyama.h"
+	"src/Geometry/arch/Geometry_SSE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\orthomethods.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\eulerangles.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\homogeneous.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\rotationbase.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\rotation2d.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\quaternion.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\angleaxis.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\transform.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\translation.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\scaling.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\hyperplane.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\parametrizedline.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\alignedbox.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\umeyama.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\geometry\arch\geometry_sse.h
+
+1496793342 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\eigenvalues
+	"Core"
+	"src/Core/util/DisableStupidWarnings.h"
+	"Cholesky"
+	"Jacobi"
+	"Householder"
+	"LU"
+	"Geometry"
+	"src/misc/RealSvd2x2.h"
+	"src/Eigenvalues/Tridiagonalization.h"
+	"src/Eigenvalues/RealSchur.h"
+	"src/Eigenvalues/EigenSolver.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver.h"
+	"src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h"
+	"src/Eigenvalues/HessenbergDecomposition.h"
+	"src/Eigenvalues/ComplexSchur.h"
+	"src/Eigenvalues/ComplexEigenSolver.h"
+	"src/Eigenvalues/RealQZ.h"
+	"src/Eigenvalues/GeneralizedEigenSolver.h"
+	"src/Eigenvalues/MatrixBaseEigenvalues.h"
+	"src/misc/lapacke.h"
+	"src/Eigenvalues/RealSchur_LAPACKE.h"
+	"src/Eigenvalues/ComplexSchur_LAPACKE.h"
+	"src/Eigenvalues/SelfAdjointEigenSolver_LAPACKE.h"
+	"src/Core/util/ReenableStupidWarnings.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\tridiagonalization.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realschur.h
+	"./HessenbergDecomposition.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\hessenbergdecomposition.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\eigensolver.h
+	"./RealSchur.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\generalizedselfadjointeigensolver.h
+	"./Tridiagonalization.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexschur.h
+	"./HessenbergDecomposition.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexeigensolver.h
+	"./ComplexSchur.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realqz.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\generalizedeigensolver.h
+	"./RealQZ.h"
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\matrixbaseeigenvalues.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\realschur_lapacke.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\complexschur_lapacke.h
+
+1496793344 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\eigen\src\eigenvalues\selfadjointeigensolver_lapacke.h
+
+1507661797 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\protein.h
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<sstream>
+	<windows.h>
+	"constants.h"
+	"geometry.h"
+	"utilityfunctions.h"
+
+1434050770 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\constants.h
+
+1486147741 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\geometry.h
+	<iostream>
+	<cmath>
+	<limits>
+	<math.h>
+	"utilityfunctions.h"
+	"Matrix.h"
+
+1434050772 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\utilityfunctions.h
+	<sstream>
+	<algorithm>
+	<vector>
+	<iostream>
+	"constants.h"
+	"randomGenerator/randomc.h"
+	"randomGenerator/userintf.cpp"
+	"randomGenerator/mersenne.cpp"
+	"randomGenerator/mother.cpp"
+	<time.h>
+	<sys/time.h>
+
+1434050772 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\randomc.h
+	<inttypes.h>
+
+1434050772 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\userintf.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1434050772 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mersenne.cpp
+	"randomc.h"
+
+1434050772 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\randomgenerator\mother.cpp
+	"randomc.h"
+
+1434050770 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\matrix.h
+	<assert.h>
+
+1434050770 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\skeleton_overall.h
+	<sstream>
+	<string.h>
+	<stdio.h>
+	"geometry.h"
+	"protein.h"
+	"constants.h"
+	"utilityfunctions.h"
+	"FBCCD.h"
+
+1434050770 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\fbccd.h
+	"geometry.h"
+	"constants.h"
+	"skeleton_overall.h"
+
+1495735647 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\mrc.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<queue>
+	<math.h>
+	<limits.h>
+	"protein.h"
+	"constants.h"
+	"geometry.h"
+	"jacobi.h"
+	"skeleton_overall.h"
+
+1434050770 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\jacobi.h
+	<vector>
+	<cmath>
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<math.h>
+
+1507654298 c:\users\dhaslam\desktop\desktop7-3\desktop-5-18\new folder (4)\axiscomparisoncode\include\axis.h
+
