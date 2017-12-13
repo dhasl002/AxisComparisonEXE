@@ -4,7 +4,7 @@ The source code used for comparing two secondary structure axes in 3d space. Thi
 
 ### Prerequisites
 
-Built with C++ 11
+Built with C++ 11, Eigen, and doxygen.
 
 ## Authors
 
