@@ -872,7 +872,7 @@ ofstream outCoordinates100;
                                 groupNumber++;
                 }
             }
-            //outputPoints(mrc, path, 46);
+            outputPoints(mrc, path, 46);
             linearFit(mrc, tempGroup, groupNumber, total, path, stepSize, one, currHel, pdb, helixOffset, numSplit, groupToSplitArr, acute);
         }
         //end of mrc stuff
@@ -2257,7 +2257,7 @@ void outputPoints(Map mrc, string path, double threshold)
 {
     ofstream outCoordinates100;
     string fileName120 = "";
-    fileName120 = path + "GROUPALLLLLL.pdb";
+    fileName120 = path + "GROUPALL.pdb";
     outCoordinates100.open(fileName120.c_str());
     double result10 = 0;
     double result20 = 0;
