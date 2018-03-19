@@ -872,7 +872,7 @@ ofstream outCoordinates100;
                                 groupNumber++;
                 }
             }
-            outputPoints(mrc, path, 46);
+            //outputPoints(mrc, path, 46);
             linearFit(mrc, tempGroup, groupNumber, total, path, stepSize, one, currHel, pdb, helixOffset, numSplit, groupToSplitArr, acute);
         }
         //end of mrc stuff
