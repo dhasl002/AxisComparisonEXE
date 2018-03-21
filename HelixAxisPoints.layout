@@ -2,21 +2,14 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
+	<File name="axisComparison.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="31089" topLine="751" />
+		</Cursor>
+	</File>
 	<File name="include\axis.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="28557" topLine="829" />
 		</Cursor>
-	</File>
-	<File name="axisComparison.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="35788" topLine="841" />
-		</Cursor>
-		<Folding>
-			<Collapse line="1381" />
-			<Collapse line="1613" />
-			<Collapse line="1977" />
-			<Collapse line="2009" />
-			<Collapse line="2256" />
-		</Folding>
 	</File>
 </CodeBlocks_layout_file>

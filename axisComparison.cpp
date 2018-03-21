@@ -769,7 +769,7 @@ ofstream outCoordinates100;
             int tempJ = 0;
             int tempK = 0;
             int tempI = 0;
-            double threshold = .1/mrc.hdr.amax;//middle;
+            double threshold = .72/mrc.hdr.amax;//middle;
 
             ///iterative method
             int numReturned = -1;
